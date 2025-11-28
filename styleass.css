@@ -1,4 +1,18 @@
 p{
     color: grey;
-    margin: ;
+    margin: 80px 10px 15px 25px;
+    border: 20px solid darkblue;
+    height: 100px;
+    background-color: rgb(212, 234, 15);
+    text-align: center;
+    align-content: center;
+}
+div{
+    border: 3px solid;
+   width: 500px;
+   height: 300px;
+}
+
+h1{
+    margin: 5px 8px;
 }
