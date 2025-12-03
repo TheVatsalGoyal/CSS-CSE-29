@@ -1,0 +1,25 @@
+.container{
+    display:inline-block;
+    border: 2px solid black;
+    height: 400px;
+    width: 700px;
+    padding: 10px;
+}
+.box{
+    display: inline-block;
+    height: 250px;
+    width: 150px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.box1{
+    background-color: greenyellow;
+}
+.box2{
+    background-color: red;
+}
+.box3{
+    background-color: aqua;
+}
